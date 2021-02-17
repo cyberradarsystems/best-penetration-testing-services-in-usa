@@ -6,15 +6,21 @@ A penetration test, pentest, pen test, or ethical hacking portrays a lawful, mim
 Our professionals work for your business, therefore, we prevent your organization from any kind of cyber attack, maintaining a strong reputation of the brand is essential during the crowded digital world.
 
 -Secure Data and systems
+
 -Preventing business interruption
+
 -Protect your brand’s image
+
 -Offers learning procedure by breaking down into 3 basic sections (Detect Vulnerabilities, Determine exploits, and Defend against attacks)
 
 ### Let a specialist team recognize and prevent cybersecurity problems.
 
 -Conduct penetration test and Risk Assessment on an organization’s frameworks
+
 -Perform security reviews to assess whether your organization fits indistinct security arrangements, normalization, and standardization.
+
 -Ensure actual security to the vulnerability of workers, frameworks, and different organization devices.
+
 -Redefine the methods to battle advanced threats.
 
 Our	 testing	 included	 both	 unauthenticated	 as	 well	 as	 authenticated	 testing.	 	 For	 the	 purpose	 of	 our	 testing	 we	
