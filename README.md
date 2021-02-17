@@ -28,10 +28,14 @@ were	 provided	 with	 4 unique	 accounts	 for	 the	 HIE	 Portal.	 These	 account
 internal	security	controls.		These	accounts	are	explained	in	the	table	below.
 
 ### Account	name Access	Level Group	Membership
-penlevel1 Level 1 View Users, Non eRX User
-penlevel2 Level 2 View Users,	HIE	Users,	Non	eRX	User
-penlevel3 Level 3 View Users,	HIE	Users,	Non	eRX	User
-penlevel4 Level 4 View Users,	HIE	Users,	Non	eRX	User
+
+-penlevel1 Level 1 View Users, Non eRX User
+
+-penlevel2 Level 2 View Users,	HIE	Users,	Non	eRX	User
+
+-penlevel3 Level 3 View Users,	HIE	Users,	Non	eRX	User
+
+-penlevel4 Level 4 View Users,	HIE	Users,	Non	eRX	User
 
 ## When To Choose A Penetration Testing Vendor
 
